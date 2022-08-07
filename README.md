@@ -16,4 +16,6 @@ You may also see any lint errors in the console.
 
 ### open a new terminal and type `npx json-server --watch data/db.json --port 8000`
 
-Connects the db.json as a database from server to fetch data from
+Connects the db.json as a database from server to fetch data from 'http://localhost:8000/blogs/' + id'
+
+Download all the dependencies by typing `npm install` in the terminal to use all the node modules
